@@ -1,0 +1,6 @@
+shared_ride_id,request,match
+1,Requested,Matched
+2,Requested,Not matched
+3,Not requested,Matched
+4,Not requested,Not matched
+999,Uknown,Unkown
